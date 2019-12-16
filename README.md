@@ -1,0 +1,3 @@
+# Mixture-of-activation-function-with-Extended-Min-Max-normalization
+
+We propose a novel deep learning architecture consisting of an adaptive activation function selection mechanism to achieve higher predictive accuracy. The proposed architecture is composed of seven neural networks that have different activation functions as well as softmax layer and multiplication layer with a skip connection, which are used to generate the dynamic importance weights that decide which activation function is preferred. In addition, we introduce an extended Min-Max smoothing technique to further normalize financial time series that have non-stationary properties.
